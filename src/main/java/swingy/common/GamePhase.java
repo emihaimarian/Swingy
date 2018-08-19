@@ -1,0 +1,5 @@
+package swingy.common;
+
+public enum GamePhase {
+    MAIN_MENU, NEW_HERO, NEW_HERO_SET_NAME, NEW_HERO_SET_CLASS, CONTINUE_A, ADVENTURE_MOVE, ADVENTURE_ENCOUNTER, LOOT
+}
